@@ -10,6 +10,7 @@ Used for post performance optimization. When the gaussian splats have very low o
 - Select: Selects all points with opacity lower than the threshold
 - Add: Adds all points with opacity lower than the threshold to current selection
 - Remove: Removes all points with opacity lower than the threshold from current selection
+
 ![OpacitySelection](https://github.com/user-attachments/assets/790d12bf-b0d0-429d-b4c3-1995fdd3b7ea)
 
 
@@ -19,6 +20,7 @@ Used for post performance optimization. When the gaussian splats are very small,
 - Select: Selects all points with the size smaller than the threshold
 - Add: Adds all points with the size smaller than the threshold to current selection
 - Remove: Removes all points with the size smaller than the threshold from current selection
+
 ![SizeSelection](https://github.com/user-attachments/assets/5c07af7f-876c-4228-8da3-e32008147265)
 
 
