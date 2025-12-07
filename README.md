@@ -1,6 +1,6 @@
 # Gaussian Splatting Editor
 
-Forked from SuperSplat. The Gaussian Splatting is a free and open source tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats. It is built on web technologies and runs in the browser.
+Forked from SuperSplat. The Gaussian Splatting Editor is a free and open source tool for inspecting, editing, optimizing and publishing 3D Gaussian Splats. It is built on web technologies and runs in the browser.
 
 ## Local Development
 
