@@ -13,7 +13,7 @@ To initialize a local development environment for SuperSplat, ensure you have [N
    cd supersplat
    ```
 
-2. Install dependencies:
+2. Install dependencies:(only for the first time)
 
    ```sh
    npm install
