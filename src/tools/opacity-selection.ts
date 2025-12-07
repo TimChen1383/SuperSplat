@@ -43,7 +43,7 @@ class OpacitySelection {
 
         const removeButton = new Button({
             text: 'Remove',
-            width: 60
+            width: 100
         });
 
         selectToolbar.append(thresholdInput);
