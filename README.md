@@ -25,7 +25,7 @@ To initialize a local development environment for SuperSplat, ensure you have [N
    npm run develop
    ```
 
-4. Open a web browser tab and make sure network caching is disabled on the network tab and the other application caches are clear:
+4. Open a web browser tab and make sure network caching is disabled on the network tab and the other application caches are clear: (press F12)
 
    - On Chrome ensure the options "Update on reload" and "Bypass for network" are enabled in the Application->Service workers tab:
    <img width="739" height="378" alt="Screenshot 2025-12-07 142119" src="https://github.com/user-attachments/assets/a6310e5f-7cb5-4cb6-be2b-7aa1588c618d" />
