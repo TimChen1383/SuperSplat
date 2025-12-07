@@ -4,14 +4,14 @@ Forked from SuperSplat. The Gaussian Splat Editor is a free and open source tool
 
 ## Features
 #### Opacity Select
-Used for post performance optimization. When the gaussian splats have very low opacity vlaue, they are usually barely visible in the scene. Prune the low opacity gaussian splats can increase the scene performance.
+Used for post performance optimization. When the gaussian splats have very low opacity vlaue, they are usually barely visible in the scene. Prune the low opacity gaussian splats can increase the scene performance and lower the file size.
 - Threshold: Numeric input. The gaussian splats which has the opacity value lower than this threshold will be selected
 - Select: Selects all points with opacity lower than the threshold
 - Add: Adds all points with opacity lower than the threshold to current selection
 - Remove: Removes all points with opacity lower than the threshold from current selection
 
 #### Size Select
-Used for post performance optimization. When the gaussian splats are very small, they are usually barely visible in the scene. Prune the tiny gaussian splats can increase the scene performance. 
+Used for post performance optimization. When the gaussian splats are very small, they are usually barely visible in the scene. Prune the tiny gaussian splats can increase the scene performance and lower the file size. 
 - Threshold: Numeric input. The gaussian splats which has the size smaller than this threshold will be selected (size = size.x + size.y + size.z)
 - Select: Selects all points with the size smaller than the threshold
 - Add: Adds all points with the size smaller than the threshold to current selection
